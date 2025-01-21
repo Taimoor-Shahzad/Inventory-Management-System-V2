@@ -13,10 +13,6 @@ The Inventory Management System (IMS) - Version 2 is an enhanced version of the 
 - Adjust stock levels dynamically.
 - Access advanced features like viewing inventory analytics (planned future feature).
 
-#### User Role:
-- View and search products.
-- Filter products by name or category.
-
 ### *Product Management*
 - Create, read, update, and delete products.
 - Real-time stock adjustment.
@@ -39,10 +35,6 @@ The Inventory Management System (IMS) - Version 2 is an enhanced version of the 
 - Simplified and intuitive logout button placement for all users.
 
 ## Setup and Installation
-
-### *Prerequisites*
-- Python 3.8 or above
-- Streamlit library
 
 ### *Installation Steps*
 1. Clone the repository or download the project files.
